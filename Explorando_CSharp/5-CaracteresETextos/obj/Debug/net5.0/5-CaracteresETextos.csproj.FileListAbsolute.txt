@@ -1,0 +1,15 @@
+D:\APRENDENDO_C#\APRENDENDOCSHARP\AprendendoCSharp\5-CaracteresETextos\bin\Debug\net5.0\5-CaracteresETextos.exe
+D:\APRENDENDO_C#\APRENDENDOCSHARP\AprendendoCSharp\5-CaracteresETextos\bin\Debug\net5.0\5-CaracteresETextos.deps.json
+D:\APRENDENDO_C#\APRENDENDOCSHARP\AprendendoCSharp\5-CaracteresETextos\bin\Debug\net5.0\5-CaracteresETextos.runtimeconfig.json
+D:\APRENDENDO_C#\APRENDENDOCSHARP\AprendendoCSharp\5-CaracteresETextos\bin\Debug\net5.0\5-CaracteresETextos.runtimeconfig.dev.json
+D:\APRENDENDO_C#\APRENDENDOCSHARP\AprendendoCSharp\5-CaracteresETextos\bin\Debug\net5.0\5-CaracteresETextos.dll
+D:\APRENDENDO_C#\APRENDENDOCSHARP\AprendendoCSharp\5-CaracteresETextos\bin\Debug\net5.0\ref\5-CaracteresETextos.dll
+D:\APRENDENDO_C#\APRENDENDOCSHARP\AprendendoCSharp\5-CaracteresETextos\bin\Debug\net5.0\5-CaracteresETextos.pdb
+D:\APRENDENDO_C#\APRENDENDOCSHARP\AprendendoCSharp\5-CaracteresETextos\obj\Debug\net5.0\5-CaracteresETextos.GeneratedMSBuildEditorConfig.editorconfig
+D:\APRENDENDO_C#\APRENDENDOCSHARP\AprendendoCSharp\5-CaracteresETextos\obj\Debug\net5.0\5-CaracteresETextos.AssemblyInfoInputs.cache
+D:\APRENDENDO_C#\APRENDENDOCSHARP\AprendendoCSharp\5-CaracteresETextos\obj\Debug\net5.0\5-CaracteresETextos.AssemblyInfo.cs
+D:\APRENDENDO_C#\APRENDENDOCSHARP\AprendendoCSharp\5-CaracteresETextos\obj\Debug\net5.0\5-CaracteresETextos.csproj.CoreCompileInputs.cache
+D:\APRENDENDO_C#\APRENDENDOCSHARP\AprendendoCSharp\5-CaracteresETextos\obj\Debug\net5.0\5-CaracteresETextos.dll
+D:\APRENDENDO_C#\APRENDENDOCSHARP\AprendendoCSharp\5-CaracteresETextos\obj\Debug\net5.0\ref\5-CaracteresETextos.dll
+D:\APRENDENDO_C#\APRENDENDOCSHARP\AprendendoCSharp\5-CaracteresETextos\obj\Debug\net5.0\5-CaracteresETextos.pdb
+D:\APRENDENDO_C#\APRENDENDOCSHARP\AprendendoCSharp\5-CaracteresETextos\obj\Debug\net5.0\5-CaracteresETextos.genruntimeconfig.cache

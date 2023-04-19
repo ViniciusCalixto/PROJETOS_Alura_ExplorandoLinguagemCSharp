@@ -1,0 +1,15 @@
+D:\APRENDENDO_C#\APRENDENDOCSHARP\AprendendoCSharp\P13-EncadeandoFor\bin\Debug\net5.0\P13-EncadeandoFor.exe
+D:\APRENDENDO_C#\APRENDENDOCSHARP\AprendendoCSharp\P13-EncadeandoFor\bin\Debug\net5.0\P13-EncadeandoFor.deps.json
+D:\APRENDENDO_C#\APRENDENDOCSHARP\AprendendoCSharp\P13-EncadeandoFor\bin\Debug\net5.0\P13-EncadeandoFor.runtimeconfig.json
+D:\APRENDENDO_C#\APRENDENDOCSHARP\AprendendoCSharp\P13-EncadeandoFor\bin\Debug\net5.0\P13-EncadeandoFor.runtimeconfig.dev.json
+D:\APRENDENDO_C#\APRENDENDOCSHARP\AprendendoCSharp\P13-EncadeandoFor\bin\Debug\net5.0\P13-EncadeandoFor.dll
+D:\APRENDENDO_C#\APRENDENDOCSHARP\AprendendoCSharp\P13-EncadeandoFor\bin\Debug\net5.0\ref\P13-EncadeandoFor.dll
+D:\APRENDENDO_C#\APRENDENDOCSHARP\AprendendoCSharp\P13-EncadeandoFor\bin\Debug\net5.0\P13-EncadeandoFor.pdb
+D:\APRENDENDO_C#\APRENDENDOCSHARP\AprendendoCSharp\P13-EncadeandoFor\obj\Debug\net5.0\P13-EncadeandoFor.GeneratedMSBuildEditorConfig.editorconfig
+D:\APRENDENDO_C#\APRENDENDOCSHARP\AprendendoCSharp\P13-EncadeandoFor\obj\Debug\net5.0\P13-EncadeandoFor.AssemblyInfoInputs.cache
+D:\APRENDENDO_C#\APRENDENDOCSHARP\AprendendoCSharp\P13-EncadeandoFor\obj\Debug\net5.0\P13-EncadeandoFor.AssemblyInfo.cs
+D:\APRENDENDO_C#\APRENDENDOCSHARP\AprendendoCSharp\P13-EncadeandoFor\obj\Debug\net5.0\P13-EncadeandoFor.csproj.CoreCompileInputs.cache
+D:\APRENDENDO_C#\APRENDENDOCSHARP\AprendendoCSharp\P13-EncadeandoFor\obj\Debug\net5.0\P13-EncadeandoFor.dll
+D:\APRENDENDO_C#\APRENDENDOCSHARP\AprendendoCSharp\P13-EncadeandoFor\obj\Debug\net5.0\ref\P13-EncadeandoFor.dll
+D:\APRENDENDO_C#\APRENDENDOCSHARP\AprendendoCSharp\P13-EncadeandoFor\obj\Debug\net5.0\P13-EncadeandoFor.pdb
+D:\APRENDENDO_C#\APRENDENDOCSHARP\AprendendoCSharp\P13-EncadeandoFor\obj\Debug\net5.0\P13-EncadeandoFor.genruntimeconfig.cache

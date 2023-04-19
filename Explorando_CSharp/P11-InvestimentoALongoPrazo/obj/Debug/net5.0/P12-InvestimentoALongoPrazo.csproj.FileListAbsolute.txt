@@ -1,0 +1,15 @@
+D:\APRENDENDO_C#\APRENDENDOCSHARP\AprendendoCSharp\P11-InvestimentoALongoPrazo\bin\Debug\net5.0\P12-InvestimentoALongoPrazo.exe
+D:\APRENDENDO_C#\APRENDENDOCSHARP\AprendendoCSharp\P11-InvestimentoALongoPrazo\bin\Debug\net5.0\P12-InvestimentoALongoPrazo.deps.json
+D:\APRENDENDO_C#\APRENDENDOCSHARP\AprendendoCSharp\P11-InvestimentoALongoPrazo\bin\Debug\net5.0\P12-InvestimentoALongoPrazo.runtimeconfig.json
+D:\APRENDENDO_C#\APRENDENDOCSHARP\AprendendoCSharp\P11-InvestimentoALongoPrazo\bin\Debug\net5.0\P12-InvestimentoALongoPrazo.runtimeconfig.dev.json
+D:\APRENDENDO_C#\APRENDENDOCSHARP\AprendendoCSharp\P11-InvestimentoALongoPrazo\bin\Debug\net5.0\P12-InvestimentoALongoPrazo.dll
+D:\APRENDENDO_C#\APRENDENDOCSHARP\AprendendoCSharp\P11-InvestimentoALongoPrazo\bin\Debug\net5.0\ref\P12-InvestimentoALongoPrazo.dll
+D:\APRENDENDO_C#\APRENDENDOCSHARP\AprendendoCSharp\P11-InvestimentoALongoPrazo\bin\Debug\net5.0\P12-InvestimentoALongoPrazo.pdb
+D:\APRENDENDO_C#\APRENDENDOCSHARP\AprendendoCSharp\P11-InvestimentoALongoPrazo\obj\Debug\net5.0\P12-InvestimentoALongoPrazo.GeneratedMSBuildEditorConfig.editorconfig
+D:\APRENDENDO_C#\APRENDENDOCSHARP\AprendendoCSharp\P11-InvestimentoALongoPrazo\obj\Debug\net5.0\P12-InvestimentoALongoPrazo.AssemblyInfoInputs.cache
+D:\APRENDENDO_C#\APRENDENDOCSHARP\AprendendoCSharp\P11-InvestimentoALongoPrazo\obj\Debug\net5.0\P12-InvestimentoALongoPrazo.AssemblyInfo.cs
+D:\APRENDENDO_C#\APRENDENDOCSHARP\AprendendoCSharp\P11-InvestimentoALongoPrazo\obj\Debug\net5.0\P12-InvestimentoALongoPrazo.csproj.CoreCompileInputs.cache
+D:\APRENDENDO_C#\APRENDENDOCSHARP\AprendendoCSharp\P11-InvestimentoALongoPrazo\obj\Debug\net5.0\P12-InvestimentoALongoPrazo.dll
+D:\APRENDENDO_C#\APRENDENDOCSHARP\AprendendoCSharp\P11-InvestimentoALongoPrazo\obj\Debug\net5.0\ref\P12-InvestimentoALongoPrazo.dll
+D:\APRENDENDO_C#\APRENDENDOCSHARP\AprendendoCSharp\P11-InvestimentoALongoPrazo\obj\Debug\net5.0\P12-InvestimentoALongoPrazo.pdb
+D:\APRENDENDO_C#\APRENDENDOCSHARP\AprendendoCSharp\P11-InvestimentoALongoPrazo\obj\Debug\net5.0\P12-InvestimentoALongoPrazo.genruntimeconfig.cache

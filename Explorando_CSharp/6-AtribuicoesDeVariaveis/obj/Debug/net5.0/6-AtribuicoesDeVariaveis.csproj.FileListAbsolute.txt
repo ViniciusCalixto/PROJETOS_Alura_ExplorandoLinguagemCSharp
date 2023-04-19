@@ -1,0 +1,15 @@
+D:\APRENDENDO_C#\APRENDENDOCSHARP\AprendendoCSharp\6-AtribuicoesDeVariaveis\bin\Debug\net5.0\6-AtribuicoesDeVariaveis.exe
+D:\APRENDENDO_C#\APRENDENDOCSHARP\AprendendoCSharp\6-AtribuicoesDeVariaveis\bin\Debug\net5.0\6-AtribuicoesDeVariaveis.deps.json
+D:\APRENDENDO_C#\APRENDENDOCSHARP\AprendendoCSharp\6-AtribuicoesDeVariaveis\bin\Debug\net5.0\6-AtribuicoesDeVariaveis.runtimeconfig.json
+D:\APRENDENDO_C#\APRENDENDOCSHARP\AprendendoCSharp\6-AtribuicoesDeVariaveis\bin\Debug\net5.0\6-AtribuicoesDeVariaveis.runtimeconfig.dev.json
+D:\APRENDENDO_C#\APRENDENDOCSHARP\AprendendoCSharp\6-AtribuicoesDeVariaveis\bin\Debug\net5.0\6-AtribuicoesDeVariaveis.dll
+D:\APRENDENDO_C#\APRENDENDOCSHARP\AprendendoCSharp\6-AtribuicoesDeVariaveis\bin\Debug\net5.0\ref\6-AtribuicoesDeVariaveis.dll
+D:\APRENDENDO_C#\APRENDENDOCSHARP\AprendendoCSharp\6-AtribuicoesDeVariaveis\bin\Debug\net5.0\6-AtribuicoesDeVariaveis.pdb
+D:\APRENDENDO_C#\APRENDENDOCSHARP\AprendendoCSharp\6-AtribuicoesDeVariaveis\obj\Debug\net5.0\6-AtribuicoesDeVariaveis.GeneratedMSBuildEditorConfig.editorconfig
+D:\APRENDENDO_C#\APRENDENDOCSHARP\AprendendoCSharp\6-AtribuicoesDeVariaveis\obj\Debug\net5.0\6-AtribuicoesDeVariaveis.AssemblyInfoInputs.cache
+D:\APRENDENDO_C#\APRENDENDOCSHARP\AprendendoCSharp\6-AtribuicoesDeVariaveis\obj\Debug\net5.0\6-AtribuicoesDeVariaveis.AssemblyInfo.cs
+D:\APRENDENDO_C#\APRENDENDOCSHARP\AprendendoCSharp\6-AtribuicoesDeVariaveis\obj\Debug\net5.0\6-AtribuicoesDeVariaveis.csproj.CoreCompileInputs.cache
+D:\APRENDENDO_C#\APRENDENDOCSHARP\AprendendoCSharp\6-AtribuicoesDeVariaveis\obj\Debug\net5.0\6-AtribuicoesDeVariaveis.dll
+D:\APRENDENDO_C#\APRENDENDOCSHARP\AprendendoCSharp\6-AtribuicoesDeVariaveis\obj\Debug\net5.0\ref\6-AtribuicoesDeVariaveis.dll
+D:\APRENDENDO_C#\APRENDENDOCSHARP\AprendendoCSharp\6-AtribuicoesDeVariaveis\obj\Debug\net5.0\6-AtribuicoesDeVariaveis.pdb
+D:\APRENDENDO_C#\APRENDENDOCSHARP\AprendendoCSharp\6-AtribuicoesDeVariaveis\obj\Debug\net5.0\6-AtribuicoesDeVariaveis.genruntimeconfig.cache

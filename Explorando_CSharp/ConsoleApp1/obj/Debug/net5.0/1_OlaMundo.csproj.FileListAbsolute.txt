@@ -1,0 +1,16 @@
+D:\APRENDENDO_C#\APRENDENDOCSHARP\AprendendoCSharp\ConsoleApp1\bin\Debug\net5.0\1_OlaMundo.exe
+D:\APRENDENDO_C#\APRENDENDOCSHARP\AprendendoCSharp\ConsoleApp1\bin\Debug\net5.0\1_OlaMundo.deps.json
+D:\APRENDENDO_C#\APRENDENDOCSHARP\AprendendoCSharp\ConsoleApp1\bin\Debug\net5.0\1_OlaMundo.runtimeconfig.json
+D:\APRENDENDO_C#\APRENDENDOCSHARP\AprendendoCSharp\ConsoleApp1\bin\Debug\net5.0\1_OlaMundo.runtimeconfig.dev.json
+D:\APRENDENDO_C#\APRENDENDOCSHARP\AprendendoCSharp\ConsoleApp1\bin\Debug\net5.0\1_OlaMundo.dll
+D:\APRENDENDO_C#\APRENDENDOCSHARP\AprendendoCSharp\ConsoleApp1\bin\Debug\net5.0\ref\1_OlaMundo.dll
+D:\APRENDENDO_C#\APRENDENDOCSHARP\AprendendoCSharp\ConsoleApp1\bin\Debug\net5.0\1_OlaMundo.pdb
+D:\APRENDENDO_C#\APRENDENDOCSHARP\AprendendoCSharp\ConsoleApp1\obj\Debug\net5.0\1_OlaMundo.csproj.AssemblyReference.cache
+D:\APRENDENDO_C#\APRENDENDOCSHARP\AprendendoCSharp\ConsoleApp1\obj\Debug\net5.0\1_OlaMundo.GeneratedMSBuildEditorConfig.editorconfig
+D:\APRENDENDO_C#\APRENDENDOCSHARP\AprendendoCSharp\ConsoleApp1\obj\Debug\net5.0\1_OlaMundo.AssemblyInfoInputs.cache
+D:\APRENDENDO_C#\APRENDENDOCSHARP\AprendendoCSharp\ConsoleApp1\obj\Debug\net5.0\1_OlaMundo.AssemblyInfo.cs
+D:\APRENDENDO_C#\APRENDENDOCSHARP\AprendendoCSharp\ConsoleApp1\obj\Debug\net5.0\1_OlaMundo.csproj.CoreCompileInputs.cache
+D:\APRENDENDO_C#\APRENDENDOCSHARP\AprendendoCSharp\ConsoleApp1\obj\Debug\net5.0\1_OlaMundo.dll
+D:\APRENDENDO_C#\APRENDENDOCSHARP\AprendendoCSharp\ConsoleApp1\obj\Debug\net5.0\ref\1_OlaMundo.dll
+D:\APRENDENDO_C#\APRENDENDOCSHARP\AprendendoCSharp\ConsoleApp1\obj\Debug\net5.0\1_OlaMundo.pdb
+D:\APRENDENDO_C#\APRENDENDOCSHARP\AprendendoCSharp\ConsoleApp1\obj\Debug\net5.0\1_OlaMundo.genruntimeconfig.cache

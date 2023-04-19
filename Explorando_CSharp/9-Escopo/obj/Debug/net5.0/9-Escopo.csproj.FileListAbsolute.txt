@@ -1,0 +1,15 @@
+D:\APRENDENDO_C#\APRENDENDOCSHARP\AprendendoCSharp\9-Escopo\bin\Debug\net5.0\9-Escopo.exe
+D:\APRENDENDO_C#\APRENDENDOCSHARP\AprendendoCSharp\9-Escopo\bin\Debug\net5.0\9-Escopo.deps.json
+D:\APRENDENDO_C#\APRENDENDOCSHARP\AprendendoCSharp\9-Escopo\bin\Debug\net5.0\9-Escopo.runtimeconfig.json
+D:\APRENDENDO_C#\APRENDENDOCSHARP\AprendendoCSharp\9-Escopo\bin\Debug\net5.0\9-Escopo.runtimeconfig.dev.json
+D:\APRENDENDO_C#\APRENDENDOCSHARP\AprendendoCSharp\9-Escopo\bin\Debug\net5.0\9-Escopo.dll
+D:\APRENDENDO_C#\APRENDENDOCSHARP\AprendendoCSharp\9-Escopo\bin\Debug\net5.0\ref\9-Escopo.dll
+D:\APRENDENDO_C#\APRENDENDOCSHARP\AprendendoCSharp\9-Escopo\bin\Debug\net5.0\9-Escopo.pdb
+D:\APRENDENDO_C#\APRENDENDOCSHARP\AprendendoCSharp\9-Escopo\obj\Debug\net5.0\9-Escopo.GeneratedMSBuildEditorConfig.editorconfig
+D:\APRENDENDO_C#\APRENDENDOCSHARP\AprendendoCSharp\9-Escopo\obj\Debug\net5.0\9-Escopo.AssemblyInfoInputs.cache
+D:\APRENDENDO_C#\APRENDENDOCSHARP\AprendendoCSharp\9-Escopo\obj\Debug\net5.0\9-Escopo.AssemblyInfo.cs
+D:\APRENDENDO_C#\APRENDENDOCSHARP\AprendendoCSharp\9-Escopo\obj\Debug\net5.0\9-Escopo.csproj.CoreCompileInputs.cache
+D:\APRENDENDO_C#\APRENDENDOCSHARP\AprendendoCSharp\9-Escopo\obj\Debug\net5.0\9-Escopo.dll
+D:\APRENDENDO_C#\APRENDENDOCSHARP\AprendendoCSharp\9-Escopo\obj\Debug\net5.0\ref\9-Escopo.dll
+D:\APRENDENDO_C#\APRENDENDOCSHARP\AprendendoCSharp\9-Escopo\obj\Debug\net5.0\9-Escopo.pdb
+D:\APRENDENDO_C#\APRENDENDOCSHARP\AprendendoCSharp\9-Escopo\obj\Debug\net5.0\9-Escopo.genruntimeconfig.cache
