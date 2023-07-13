@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\APRENDENDO_C#\\APRENDENDOCSHARP\\AprendendoCSharp\\P11-InvestimentoALongoPrazo\\P12-InvestimentoALongoPrazo.csproj": {}
+    "D:\\APRENDENDO_Csharp\\APRENDENDOCSHARP\\PROJETOS_Alura_ExplorandoLinguagemCSharp\\Explorando_CSharp\\P11-InvestimentoALongoPrazo\\P12-InvestimentoALongoPrazo.csproj": {}
   },
   "projects": {
-    "D:\\APRENDENDO_C#\\APRENDENDOCSHARP\\AprendendoCSharp\\P11-InvestimentoALongoPrazo\\P12-InvestimentoALongoPrazo.csproj": {
+    "D:\\APRENDENDO_Csharp\\APRENDENDOCSHARP\\PROJETOS_Alura_ExplorandoLinguagemCSharp\\Explorando_CSharp\\P11-InvestimentoALongoPrazo\\P12-InvestimentoALongoPrazo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\APRENDENDO_C#\\APRENDENDOCSHARP\\AprendendoCSharp\\P11-InvestimentoALongoPrazo\\P12-InvestimentoALongoPrazo.csproj",
+        "projectUniqueName": "D:\\APRENDENDO_Csharp\\APRENDENDOCSHARP\\PROJETOS_Alura_ExplorandoLinguagemCSharp\\Explorando_CSharp\\P11-InvestimentoALongoPrazo\\P12-InvestimentoALongoPrazo.csproj",
         "projectName": "P12-InvestimentoALongoPrazo",
-        "projectPath": "D:\\APRENDENDO_C#\\APRENDENDOCSHARP\\AprendendoCSharp\\P11-InvestimentoALongoPrazo\\P12-InvestimentoALongoPrazo.csproj",
+        "projectPath": "D:\\APRENDENDO_Csharp\\APRENDENDOCSHARP\\PROJETOS_Alura_ExplorandoLinguagemCSharp\\Explorando_CSharp\\P11-InvestimentoALongoPrazo\\P12-InvestimentoALongoPrazo.csproj",
         "packagesPath": "C:\\Users\\vinicius.calixto\\.nuget\\packages\\",
-        "outputPath": "D:\\APRENDENDO_C#\\APRENDENDOCSHARP\\AprendendoCSharp\\P11-InvestimentoALongoPrazo\\obj\\",
+        "outputPath": "D:\\APRENDENDO_Csharp\\APRENDENDOCSHARP\\PROJETOS_Alura_ExplorandoLinguagemCSharp\\Explorando_CSharp\\P11-InvestimentoALongoPrazo\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "D:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

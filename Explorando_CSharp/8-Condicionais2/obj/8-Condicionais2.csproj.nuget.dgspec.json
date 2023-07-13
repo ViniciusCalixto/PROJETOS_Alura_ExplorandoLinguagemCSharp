@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\APRENDENDO_C#\\APRENDENDOCSHARP\\AprendendoCSharp\\8-Condicionais2\\8-Condicionais2.csproj": {}
+    "D:\\APRENDENDO_Csharp\\APRENDENDOCSHARP\\PROJETOS_Alura_ExplorandoLinguagemCSharp\\Explorando_CSharp\\8-Condicionais2\\8-Condicionais2.csproj": {}
   },
   "projects": {
-    "D:\\APRENDENDO_C#\\APRENDENDOCSHARP\\AprendendoCSharp\\8-Condicionais2\\8-Condicionais2.csproj": {
+    "D:\\APRENDENDO_Csharp\\APRENDENDOCSHARP\\PROJETOS_Alura_ExplorandoLinguagemCSharp\\Explorando_CSharp\\8-Condicionais2\\8-Condicionais2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\APRENDENDO_C#\\APRENDENDOCSHARP\\AprendendoCSharp\\8-Condicionais2\\8-Condicionais2.csproj",
+        "projectUniqueName": "D:\\APRENDENDO_Csharp\\APRENDENDOCSHARP\\PROJETOS_Alura_ExplorandoLinguagemCSharp\\Explorando_CSharp\\8-Condicionais2\\8-Condicionais2.csproj",
         "projectName": "8-Condicionais2",
-        "projectPath": "D:\\APRENDENDO_C#\\APRENDENDOCSHARP\\AprendendoCSharp\\8-Condicionais2\\8-Condicionais2.csproj",
+        "projectPath": "D:\\APRENDENDO_Csharp\\APRENDENDOCSHARP\\PROJETOS_Alura_ExplorandoLinguagemCSharp\\Explorando_CSharp\\8-Condicionais2\\8-Condicionais2.csproj",
         "packagesPath": "C:\\Users\\vinicius.calixto\\.nuget\\packages\\",
-        "outputPath": "D:\\APRENDENDO_C#\\APRENDENDOCSHARP\\AprendendoCSharp\\8-Condicionais2\\obj\\",
+        "outputPath": "D:\\APRENDENDO_Csharp\\APRENDENDOCSHARP\\PROJETOS_Alura_ExplorandoLinguagemCSharp\\Explorando_CSharp\\8-Condicionais2\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "D:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

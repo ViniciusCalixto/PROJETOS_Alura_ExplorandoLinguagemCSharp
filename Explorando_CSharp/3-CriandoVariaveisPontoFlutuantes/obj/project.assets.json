@@ -15,11 +15,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\APRENDENDO_C#\\APRENDENDOCSHARP\\AprendendoCSharp\\3-CriandoVariaveisPontoFlutuantes\\3-CriandoVariaveisPontoFlutuantes.csproj",
+      "projectUniqueName": "D:\\APRENDENDO_Csharp\\APRENDENDOCSHARP\\PROJETOS_Alura_ExplorandoLinguagemCSharp\\Explorando_CSharp\\3-CriandoVariaveisPontoFlutuantes\\3-CriandoVariaveisPontoFlutuantes.csproj",
       "projectName": "3-CriandoVariaveisPontoFlutuantes",
-      "projectPath": "D:\\APRENDENDO_C#\\APRENDENDOCSHARP\\AprendendoCSharp\\3-CriandoVariaveisPontoFlutuantes\\3-CriandoVariaveisPontoFlutuantes.csproj",
+      "projectPath": "D:\\APRENDENDO_Csharp\\APRENDENDOCSHARP\\PROJETOS_Alura_ExplorandoLinguagemCSharp\\Explorando_CSharp\\3-CriandoVariaveisPontoFlutuantes\\3-CriandoVariaveisPontoFlutuantes.csproj",
       "packagesPath": "C:\\Users\\vinicius.calixto\\.nuget\\packages\\",
-      "outputPath": "D:\\APRENDENDO_C#\\APRENDENDOCSHARP\\AprendendoCSharp\\3-CriandoVariaveisPontoFlutuantes\\obj\\",
+      "outputPath": "D:\\APRENDENDO_Csharp\\APRENDENDOCSHARP\\PROJETOS_Alura_ExplorandoLinguagemCSharp\\Explorando_CSharp\\3-CriandoVariaveisPontoFlutuantes\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "D:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

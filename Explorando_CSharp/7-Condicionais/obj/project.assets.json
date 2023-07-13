@@ -15,11 +15,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\APRENDENDO_C#\\APRENDENDOCSHARP\\AprendendoCSharp\\7-Condicionais\\7-Condicionais.csproj",
+      "projectUniqueName": "D:\\APRENDENDO_Csharp\\APRENDENDOCSHARP\\PROJETOS_Alura_ExplorandoLinguagemCSharp\\Explorando_CSharp\\7-Condicionais\\7-Condicionais.csproj",
       "projectName": "7-Condicionais",
-      "projectPath": "D:\\APRENDENDO_C#\\APRENDENDOCSHARP\\AprendendoCSharp\\7-Condicionais\\7-Condicionais.csproj",
+      "projectPath": "D:\\APRENDENDO_Csharp\\APRENDENDOCSHARP\\PROJETOS_Alura_ExplorandoLinguagemCSharp\\Explorando_CSharp\\7-Condicionais\\7-Condicionais.csproj",
       "packagesPath": "C:\\Users\\vinicius.calixto\\.nuget\\packages\\",
-      "outputPath": "D:\\APRENDENDO_C#\\APRENDENDOCSHARP\\AprendendoCSharp\\7-Condicionais\\obj\\",
+      "outputPath": "D:\\APRENDENDO_Csharp\\APRENDENDOCSHARP\\PROJETOS_Alura_ExplorandoLinguagemCSharp\\Explorando_CSharp\\7-Condicionais\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "D:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

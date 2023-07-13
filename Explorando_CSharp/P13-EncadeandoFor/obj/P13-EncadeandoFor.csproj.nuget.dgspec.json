@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\APRENDENDO_C#\\APRENDENDOCSHARP\\AprendendoCSharp\\P13-EncadeandoFor\\P13-EncadeandoFor.csproj": {}
+    "D:\\APRENDENDO_Csharp\\APRENDENDOCSHARP\\PROJETOS_Alura_ExplorandoLinguagemCSharp\\Explorando_CSharp\\P13-EncadeandoFor\\P13-EncadeandoFor.csproj": {}
   },
   "projects": {
-    "D:\\APRENDENDO_C#\\APRENDENDOCSHARP\\AprendendoCSharp\\P13-EncadeandoFor\\P13-EncadeandoFor.csproj": {
+    "D:\\APRENDENDO_Csharp\\APRENDENDOCSHARP\\PROJETOS_Alura_ExplorandoLinguagemCSharp\\Explorando_CSharp\\P13-EncadeandoFor\\P13-EncadeandoFor.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\APRENDENDO_C#\\APRENDENDOCSHARP\\AprendendoCSharp\\P13-EncadeandoFor\\P13-EncadeandoFor.csproj",
+        "projectUniqueName": "D:\\APRENDENDO_Csharp\\APRENDENDOCSHARP\\PROJETOS_Alura_ExplorandoLinguagemCSharp\\Explorando_CSharp\\P13-EncadeandoFor\\P13-EncadeandoFor.csproj",
         "projectName": "P13-EncadeandoFor",
-        "projectPath": "D:\\APRENDENDO_C#\\APRENDENDOCSHARP\\AprendendoCSharp\\P13-EncadeandoFor\\P13-EncadeandoFor.csproj",
+        "projectPath": "D:\\APRENDENDO_Csharp\\APRENDENDOCSHARP\\PROJETOS_Alura_ExplorandoLinguagemCSharp\\Explorando_CSharp\\P13-EncadeandoFor\\P13-EncadeandoFor.csproj",
         "packagesPath": "C:\\Users\\vinicius.calixto\\.nuget\\packages\\",
-        "outputPath": "D:\\APRENDENDO_C#\\APRENDENDOCSHARP\\AprendendoCSharp\\P13-EncadeandoFor\\obj\\",
+        "outputPath": "D:\\APRENDENDO_Csharp\\APRENDENDOCSHARP\\PROJETOS_Alura_ExplorandoLinguagemCSharp\\Explorando_CSharp\\P13-EncadeandoFor\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "D:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

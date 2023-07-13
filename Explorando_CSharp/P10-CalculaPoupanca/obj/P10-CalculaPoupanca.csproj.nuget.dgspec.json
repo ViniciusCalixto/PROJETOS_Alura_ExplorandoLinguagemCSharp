@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\APRENDENDO_C#\\APRENDENDOCSHARP\\AprendendoCSharp\\P10-CalculaPoupanca\\P10-CalculaPoupanca.csproj": {}
+    "D:\\APRENDENDO_Csharp\\APRENDENDOCSHARP\\PROJETOS_Alura_ExplorandoLinguagemCSharp\\Explorando_CSharp\\P10-CalculaPoupanca\\P10-CalculaPoupanca.csproj": {}
   },
   "projects": {
-    "D:\\APRENDENDO_C#\\APRENDENDOCSHARP\\AprendendoCSharp\\P10-CalculaPoupanca\\P10-CalculaPoupanca.csproj": {
+    "D:\\APRENDENDO_Csharp\\APRENDENDOCSHARP\\PROJETOS_Alura_ExplorandoLinguagemCSharp\\Explorando_CSharp\\P10-CalculaPoupanca\\P10-CalculaPoupanca.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\APRENDENDO_C#\\APRENDENDOCSHARP\\AprendendoCSharp\\P10-CalculaPoupanca\\P10-CalculaPoupanca.csproj",
+        "projectUniqueName": "D:\\APRENDENDO_Csharp\\APRENDENDOCSHARP\\PROJETOS_Alura_ExplorandoLinguagemCSharp\\Explorando_CSharp\\P10-CalculaPoupanca\\P10-CalculaPoupanca.csproj",
         "projectName": "P10-CalculaPoupanca",
-        "projectPath": "D:\\APRENDENDO_C#\\APRENDENDOCSHARP\\AprendendoCSharp\\P10-CalculaPoupanca\\P10-CalculaPoupanca.csproj",
+        "projectPath": "D:\\APRENDENDO_Csharp\\APRENDENDOCSHARP\\PROJETOS_Alura_ExplorandoLinguagemCSharp\\Explorando_CSharp\\P10-CalculaPoupanca\\P10-CalculaPoupanca.csproj",
         "packagesPath": "C:\\Users\\vinicius.calixto\\.nuget\\packages\\",
-        "outputPath": "D:\\APRENDENDO_C#\\APRENDENDOCSHARP\\AprendendoCSharp\\P10-CalculaPoupanca\\obj\\",
+        "outputPath": "D:\\APRENDENDO_Csharp\\APRENDENDOCSHARP\\PROJETOS_Alura_ExplorandoLinguagemCSharp\\Explorando_CSharp\\P10-CalculaPoupanca\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "D:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

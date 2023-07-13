@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\APRENDENDO_C#\\APRENDENDOCSHARP\\AprendendoCSharp\\2-CriandoVariaveis\\2-CriandoVariaveis.csproj": {}
+    "D:\\APRENDENDO_Csharp\\APRENDENDOCSHARP\\PROJETOS_Alura_ExplorandoLinguagemCSharp\\Explorando_CSharp\\2-CriandoVariaveis\\2-CriandoVariaveis.csproj": {}
   },
   "projects": {
-    "D:\\APRENDENDO_C#\\APRENDENDOCSHARP\\AprendendoCSharp\\2-CriandoVariaveis\\2-CriandoVariaveis.csproj": {
+    "D:\\APRENDENDO_Csharp\\APRENDENDOCSHARP\\PROJETOS_Alura_ExplorandoLinguagemCSharp\\Explorando_CSharp\\2-CriandoVariaveis\\2-CriandoVariaveis.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\APRENDENDO_C#\\APRENDENDOCSHARP\\AprendendoCSharp\\2-CriandoVariaveis\\2-CriandoVariaveis.csproj",
+        "projectUniqueName": "D:\\APRENDENDO_Csharp\\APRENDENDOCSHARP\\PROJETOS_Alura_ExplorandoLinguagemCSharp\\Explorando_CSharp\\2-CriandoVariaveis\\2-CriandoVariaveis.csproj",
         "projectName": "2-CriandoVariaveis",
-        "projectPath": "D:\\APRENDENDO_C#\\APRENDENDOCSHARP\\AprendendoCSharp\\2-CriandoVariaveis\\2-CriandoVariaveis.csproj",
+        "projectPath": "D:\\APRENDENDO_Csharp\\APRENDENDOCSHARP\\PROJETOS_Alura_ExplorandoLinguagemCSharp\\Explorando_CSharp\\2-CriandoVariaveis\\2-CriandoVariaveis.csproj",
         "packagesPath": "C:\\Users\\vinicius.calixto\\.nuget\\packages\\",
-        "outputPath": "D:\\APRENDENDO_C#\\APRENDENDOCSHARP\\AprendendoCSharp\\2-CriandoVariaveis\\obj\\",
+        "outputPath": "D:\\APRENDENDO_Csharp\\APRENDENDOCSHARP\\PROJETOS_Alura_ExplorandoLinguagemCSharp\\Explorando_CSharp\\2-CriandoVariaveis\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "D:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

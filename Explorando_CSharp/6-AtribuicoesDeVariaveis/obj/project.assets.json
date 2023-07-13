@@ -15,11 +15,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\APRENDENDO_C#\\APRENDENDOCSHARP\\AprendendoCSharp\\6-AtribuicoesDeVariaveis\\6-AtribuicoesDeVariaveis.csproj",
+      "projectUniqueName": "D:\\APRENDENDO_Csharp\\APRENDENDOCSHARP\\PROJETOS_Alura_ExplorandoLinguagemCSharp\\Explorando_CSharp\\6-AtribuicoesDeVariaveis\\6-AtribuicoesDeVariaveis.csproj",
       "projectName": "6-AtribuicoesDeVariaveis",
-      "projectPath": "D:\\APRENDENDO_C#\\APRENDENDOCSHARP\\AprendendoCSharp\\6-AtribuicoesDeVariaveis\\6-AtribuicoesDeVariaveis.csproj",
+      "projectPath": "D:\\APRENDENDO_Csharp\\APRENDENDOCSHARP\\PROJETOS_Alura_ExplorandoLinguagemCSharp\\Explorando_CSharp\\6-AtribuicoesDeVariaveis\\6-AtribuicoesDeVariaveis.csproj",
       "packagesPath": "C:\\Users\\vinicius.calixto\\.nuget\\packages\\",
-      "outputPath": "D:\\APRENDENDO_C#\\APRENDENDOCSHARP\\AprendendoCSharp\\6-AtribuicoesDeVariaveis\\obj\\",
+      "outputPath": "D:\\APRENDENDO_Csharp\\APRENDENDOCSHARP\\PROJETOS_Alura_ExplorandoLinguagemCSharp\\Explorando_CSharp\\6-AtribuicoesDeVariaveis\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "D:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
