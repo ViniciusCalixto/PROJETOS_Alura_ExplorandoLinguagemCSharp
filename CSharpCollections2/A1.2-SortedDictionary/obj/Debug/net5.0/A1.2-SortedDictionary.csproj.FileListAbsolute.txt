@@ -1,0 +1,16 @@
+D:\APRENDENDO_Csharp\APRENDENDOCSHARP\PROJETOS_Alura_ExplorandoLinguagemCSharp\CSharpCollections2\A1.2-SortedDictionary\bin\Debug\net5.0\A1.2-SortedDictionary.exe
+D:\APRENDENDO_Csharp\APRENDENDOCSHARP\PROJETOS_Alura_ExplorandoLinguagemCSharp\CSharpCollections2\A1.2-SortedDictionary\bin\Debug\net5.0\A1.2-SortedDictionary.deps.json
+D:\APRENDENDO_Csharp\APRENDENDOCSHARP\PROJETOS_Alura_ExplorandoLinguagemCSharp\CSharpCollections2\A1.2-SortedDictionary\bin\Debug\net5.0\A1.2-SortedDictionary.runtimeconfig.json
+D:\APRENDENDO_Csharp\APRENDENDOCSHARP\PROJETOS_Alura_ExplorandoLinguagemCSharp\CSharpCollections2\A1.2-SortedDictionary\bin\Debug\net5.0\A1.2-SortedDictionary.runtimeconfig.dev.json
+D:\APRENDENDO_Csharp\APRENDENDOCSHARP\PROJETOS_Alura_ExplorandoLinguagemCSharp\CSharpCollections2\A1.2-SortedDictionary\bin\Debug\net5.0\A1.2-SortedDictionary.dll
+D:\APRENDENDO_Csharp\APRENDENDOCSHARP\PROJETOS_Alura_ExplorandoLinguagemCSharp\CSharpCollections2\A1.2-SortedDictionary\bin\Debug\net5.0\ref\A1.2-SortedDictionary.dll
+D:\APRENDENDO_Csharp\APRENDENDOCSHARP\PROJETOS_Alura_ExplorandoLinguagemCSharp\CSharpCollections2\A1.2-SortedDictionary\bin\Debug\net5.0\A1.2-SortedDictionary.pdb
+D:\APRENDENDO_Csharp\APRENDENDOCSHARP\PROJETOS_Alura_ExplorandoLinguagemCSharp\CSharpCollections2\A1.2-SortedDictionary\obj\Debug\net5.0\A1.2-SortedDictionary.csproj.AssemblyReference.cache
+D:\APRENDENDO_Csharp\APRENDENDOCSHARP\PROJETOS_Alura_ExplorandoLinguagemCSharp\CSharpCollections2\A1.2-SortedDictionary\obj\Debug\net5.0\A1.2-SortedDictionary.GeneratedMSBuildEditorConfig.editorconfig
+D:\APRENDENDO_Csharp\APRENDENDOCSHARP\PROJETOS_Alura_ExplorandoLinguagemCSharp\CSharpCollections2\A1.2-SortedDictionary\obj\Debug\net5.0\A1.2-SortedDictionary.AssemblyInfoInputs.cache
+D:\APRENDENDO_Csharp\APRENDENDOCSHARP\PROJETOS_Alura_ExplorandoLinguagemCSharp\CSharpCollections2\A1.2-SortedDictionary\obj\Debug\net5.0\A1.2-SortedDictionary.AssemblyInfo.cs
+D:\APRENDENDO_Csharp\APRENDENDOCSHARP\PROJETOS_Alura_ExplorandoLinguagemCSharp\CSharpCollections2\A1.2-SortedDictionary\obj\Debug\net5.0\A1.2-SortedDictionary.csproj.CoreCompileInputs.cache
+D:\APRENDENDO_Csharp\APRENDENDOCSHARP\PROJETOS_Alura_ExplorandoLinguagemCSharp\CSharpCollections2\A1.2-SortedDictionary\obj\Debug\net5.0\A1.2-SortedDictionary.dll
+D:\APRENDENDO_Csharp\APRENDENDOCSHARP\PROJETOS_Alura_ExplorandoLinguagemCSharp\CSharpCollections2\A1.2-SortedDictionary\obj\Debug\net5.0\ref\A1.2-SortedDictionary.dll
+D:\APRENDENDO_Csharp\APRENDENDOCSHARP\PROJETOS_Alura_ExplorandoLinguagemCSharp\CSharpCollections2\A1.2-SortedDictionary\obj\Debug\net5.0\A1.2-SortedDictionary.pdb
+D:\APRENDENDO_Csharp\APRENDENDOCSHARP\PROJETOS_Alura_ExplorandoLinguagemCSharp\CSharpCollections2\A1.2-SortedDictionary\obj\Debug\net5.0\A1.2-SortedDictionary.genruntimeconfig.cache

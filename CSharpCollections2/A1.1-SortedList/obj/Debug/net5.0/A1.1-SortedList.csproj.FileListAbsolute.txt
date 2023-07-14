@@ -1,0 +1,16 @@
+D:\APRENDENDO_Csharp\APRENDENDOCSHARP\PROJETOS_Alura_ExplorandoLinguagemCSharp\CSharpCollections2\A1.1-SortedList\bin\Debug\net5.0\A1.1-SortedList.exe
+D:\APRENDENDO_Csharp\APRENDENDOCSHARP\PROJETOS_Alura_ExplorandoLinguagemCSharp\CSharpCollections2\A1.1-SortedList\bin\Debug\net5.0\A1.1-SortedList.deps.json
+D:\APRENDENDO_Csharp\APRENDENDOCSHARP\PROJETOS_Alura_ExplorandoLinguagemCSharp\CSharpCollections2\A1.1-SortedList\bin\Debug\net5.0\A1.1-SortedList.runtimeconfig.json
+D:\APRENDENDO_Csharp\APRENDENDOCSHARP\PROJETOS_Alura_ExplorandoLinguagemCSharp\CSharpCollections2\A1.1-SortedList\bin\Debug\net5.0\A1.1-SortedList.runtimeconfig.dev.json
+D:\APRENDENDO_Csharp\APRENDENDOCSHARP\PROJETOS_Alura_ExplorandoLinguagemCSharp\CSharpCollections2\A1.1-SortedList\bin\Debug\net5.0\A1.1-SortedList.dll
+D:\APRENDENDO_Csharp\APRENDENDOCSHARP\PROJETOS_Alura_ExplorandoLinguagemCSharp\CSharpCollections2\A1.1-SortedList\bin\Debug\net5.0\ref\A1.1-SortedList.dll
+D:\APRENDENDO_Csharp\APRENDENDOCSHARP\PROJETOS_Alura_ExplorandoLinguagemCSharp\CSharpCollections2\A1.1-SortedList\bin\Debug\net5.0\A1.1-SortedList.pdb
+D:\APRENDENDO_Csharp\APRENDENDOCSHARP\PROJETOS_Alura_ExplorandoLinguagemCSharp\CSharpCollections2\A1.1-SortedList\obj\Debug\net5.0\A1.1-SortedList.csproj.AssemblyReference.cache
+D:\APRENDENDO_Csharp\APRENDENDOCSHARP\PROJETOS_Alura_ExplorandoLinguagemCSharp\CSharpCollections2\A1.1-SortedList\obj\Debug\net5.0\A1.1-SortedList.GeneratedMSBuildEditorConfig.editorconfig
+D:\APRENDENDO_Csharp\APRENDENDOCSHARP\PROJETOS_Alura_ExplorandoLinguagemCSharp\CSharpCollections2\A1.1-SortedList\obj\Debug\net5.0\A1.1-SortedList.AssemblyInfoInputs.cache
+D:\APRENDENDO_Csharp\APRENDENDOCSHARP\PROJETOS_Alura_ExplorandoLinguagemCSharp\CSharpCollections2\A1.1-SortedList\obj\Debug\net5.0\A1.1-SortedList.AssemblyInfo.cs
+D:\APRENDENDO_Csharp\APRENDENDOCSHARP\PROJETOS_Alura_ExplorandoLinguagemCSharp\CSharpCollections2\A1.1-SortedList\obj\Debug\net5.0\A1.1-SortedList.csproj.CoreCompileInputs.cache
+D:\APRENDENDO_Csharp\APRENDENDOCSHARP\PROJETOS_Alura_ExplorandoLinguagemCSharp\CSharpCollections2\A1.1-SortedList\obj\Debug\net5.0\A1.1-SortedList.dll
+D:\APRENDENDO_Csharp\APRENDENDOCSHARP\PROJETOS_Alura_ExplorandoLinguagemCSharp\CSharpCollections2\A1.1-SortedList\obj\Debug\net5.0\ref\A1.1-SortedList.dll
+D:\APRENDENDO_Csharp\APRENDENDOCSHARP\PROJETOS_Alura_ExplorandoLinguagemCSharp\CSharpCollections2\A1.1-SortedList\obj\Debug\net5.0\A1.1-SortedList.pdb
+D:\APRENDENDO_Csharp\APRENDENDOCSHARP\PROJETOS_Alura_ExplorandoLinguagemCSharp\CSharpCollections2\A1.1-SortedList\obj\Debug\net5.0\A1.1-SortedList.genruntimeconfig.cache
