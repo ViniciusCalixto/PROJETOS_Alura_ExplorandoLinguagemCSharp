@@ -1,0 +1,16 @@
+D:\APRENDENDO_Csharp\APRENDENDOCSHARP\PROJETOS_Alura_ExplorandoLinguagemCSharp\CSharpCollections2\A3.1-ConsultandoColletions\bin\Debug\net5.0\A3.1-ConsultandoColletions.exe
+D:\APRENDENDO_Csharp\APRENDENDOCSHARP\PROJETOS_Alura_ExplorandoLinguagemCSharp\CSharpCollections2\A3.1-ConsultandoColletions\bin\Debug\net5.0\A3.1-ConsultandoColletions.deps.json
+D:\APRENDENDO_Csharp\APRENDENDOCSHARP\PROJETOS_Alura_ExplorandoLinguagemCSharp\CSharpCollections2\A3.1-ConsultandoColletions\bin\Debug\net5.0\A3.1-ConsultandoColletions.runtimeconfig.json
+D:\APRENDENDO_Csharp\APRENDENDOCSHARP\PROJETOS_Alura_ExplorandoLinguagemCSharp\CSharpCollections2\A3.1-ConsultandoColletions\bin\Debug\net5.0\A3.1-ConsultandoColletions.runtimeconfig.dev.json
+D:\APRENDENDO_Csharp\APRENDENDOCSHARP\PROJETOS_Alura_ExplorandoLinguagemCSharp\CSharpCollections2\A3.1-ConsultandoColletions\bin\Debug\net5.0\A3.1-ConsultandoColletions.dll
+D:\APRENDENDO_Csharp\APRENDENDOCSHARP\PROJETOS_Alura_ExplorandoLinguagemCSharp\CSharpCollections2\A3.1-ConsultandoColletions\bin\Debug\net5.0\ref\A3.1-ConsultandoColletions.dll
+D:\APRENDENDO_Csharp\APRENDENDOCSHARP\PROJETOS_Alura_ExplorandoLinguagemCSharp\CSharpCollections2\A3.1-ConsultandoColletions\bin\Debug\net5.0\A3.1-ConsultandoColletions.pdb
+D:\APRENDENDO_Csharp\APRENDENDOCSHARP\PROJETOS_Alura_ExplorandoLinguagemCSharp\CSharpCollections2\A3.1-ConsultandoColletions\obj\Debug\net5.0\A3.1-ConsultandoColletions.csproj.AssemblyReference.cache
+D:\APRENDENDO_Csharp\APRENDENDOCSHARP\PROJETOS_Alura_ExplorandoLinguagemCSharp\CSharpCollections2\A3.1-ConsultandoColletions\obj\Debug\net5.0\A3.1-ConsultandoColletions.GeneratedMSBuildEditorConfig.editorconfig
+D:\APRENDENDO_Csharp\APRENDENDOCSHARP\PROJETOS_Alura_ExplorandoLinguagemCSharp\CSharpCollections2\A3.1-ConsultandoColletions\obj\Debug\net5.0\A3.1-ConsultandoColletions.AssemblyInfoInputs.cache
+D:\APRENDENDO_Csharp\APRENDENDOCSHARP\PROJETOS_Alura_ExplorandoLinguagemCSharp\CSharpCollections2\A3.1-ConsultandoColletions\obj\Debug\net5.0\A3.1-ConsultandoColletions.AssemblyInfo.cs
+D:\APRENDENDO_Csharp\APRENDENDOCSHARP\PROJETOS_Alura_ExplorandoLinguagemCSharp\CSharpCollections2\A3.1-ConsultandoColletions\obj\Debug\net5.0\A3.1-ConsultandoColletions.csproj.CoreCompileInputs.cache
+D:\APRENDENDO_Csharp\APRENDENDOCSHARP\PROJETOS_Alura_ExplorandoLinguagemCSharp\CSharpCollections2\A3.1-ConsultandoColletions\obj\Debug\net5.0\A3.1-ConsultandoColletions.dll
+D:\APRENDENDO_Csharp\APRENDENDOCSHARP\PROJETOS_Alura_ExplorandoLinguagemCSharp\CSharpCollections2\A3.1-ConsultandoColletions\obj\Debug\net5.0\ref\A3.1-ConsultandoColletions.dll
+D:\APRENDENDO_Csharp\APRENDENDOCSHARP\PROJETOS_Alura_ExplorandoLinguagemCSharp\CSharpCollections2\A3.1-ConsultandoColletions\obj\Debug\net5.0\A3.1-ConsultandoColletions.pdb
+D:\APRENDENDO_Csharp\APRENDENDOCSHARP\PROJETOS_Alura_ExplorandoLinguagemCSharp\CSharpCollections2\A3.1-ConsultandoColletions\obj\Debug\net5.0\A3.1-ConsultandoColletions.genruntimeconfig.cache

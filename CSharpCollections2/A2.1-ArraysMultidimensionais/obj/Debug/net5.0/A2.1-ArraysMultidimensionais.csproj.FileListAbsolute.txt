@@ -1,0 +1,16 @@
+D:\APRENDENDO_Csharp\APRENDENDOCSHARP\PROJETOS_Alura_ExplorandoLinguagemCSharp\CSharpCollections2\A2.1-ArraysMultidimensionais\bin\Debug\net5.0\A2.1-ArraysMultidimensionais.exe
+D:\APRENDENDO_Csharp\APRENDENDOCSHARP\PROJETOS_Alura_ExplorandoLinguagemCSharp\CSharpCollections2\A2.1-ArraysMultidimensionais\bin\Debug\net5.0\A2.1-ArraysMultidimensionais.deps.json
+D:\APRENDENDO_Csharp\APRENDENDOCSHARP\PROJETOS_Alura_ExplorandoLinguagemCSharp\CSharpCollections2\A2.1-ArraysMultidimensionais\bin\Debug\net5.0\A2.1-ArraysMultidimensionais.runtimeconfig.json
+D:\APRENDENDO_Csharp\APRENDENDOCSHARP\PROJETOS_Alura_ExplorandoLinguagemCSharp\CSharpCollections2\A2.1-ArraysMultidimensionais\bin\Debug\net5.0\A2.1-ArraysMultidimensionais.runtimeconfig.dev.json
+D:\APRENDENDO_Csharp\APRENDENDOCSHARP\PROJETOS_Alura_ExplorandoLinguagemCSharp\CSharpCollections2\A2.1-ArraysMultidimensionais\bin\Debug\net5.0\A2.1-ArraysMultidimensionais.dll
+D:\APRENDENDO_Csharp\APRENDENDOCSHARP\PROJETOS_Alura_ExplorandoLinguagemCSharp\CSharpCollections2\A2.1-ArraysMultidimensionais\bin\Debug\net5.0\ref\A2.1-ArraysMultidimensionais.dll
+D:\APRENDENDO_Csharp\APRENDENDOCSHARP\PROJETOS_Alura_ExplorandoLinguagemCSharp\CSharpCollections2\A2.1-ArraysMultidimensionais\bin\Debug\net5.0\A2.1-ArraysMultidimensionais.pdb
+D:\APRENDENDO_Csharp\APRENDENDOCSHARP\PROJETOS_Alura_ExplorandoLinguagemCSharp\CSharpCollections2\A2.1-ArraysMultidimensionais\obj\Debug\net5.0\A2.1-ArraysMultidimensionais.csproj.AssemblyReference.cache
+D:\APRENDENDO_Csharp\APRENDENDOCSHARP\PROJETOS_Alura_ExplorandoLinguagemCSharp\CSharpCollections2\A2.1-ArraysMultidimensionais\obj\Debug\net5.0\A2.1-ArraysMultidimensionais.GeneratedMSBuildEditorConfig.editorconfig
+D:\APRENDENDO_Csharp\APRENDENDOCSHARP\PROJETOS_Alura_ExplorandoLinguagemCSharp\CSharpCollections2\A2.1-ArraysMultidimensionais\obj\Debug\net5.0\A2.1-ArraysMultidimensionais.AssemblyInfoInputs.cache
+D:\APRENDENDO_Csharp\APRENDENDOCSHARP\PROJETOS_Alura_ExplorandoLinguagemCSharp\CSharpCollections2\A2.1-ArraysMultidimensionais\obj\Debug\net5.0\A2.1-ArraysMultidimensionais.AssemblyInfo.cs
+D:\APRENDENDO_Csharp\APRENDENDOCSHARP\PROJETOS_Alura_ExplorandoLinguagemCSharp\CSharpCollections2\A2.1-ArraysMultidimensionais\obj\Debug\net5.0\A2.1-ArraysMultidimensionais.csproj.CoreCompileInputs.cache
+D:\APRENDENDO_Csharp\APRENDENDOCSHARP\PROJETOS_Alura_ExplorandoLinguagemCSharp\CSharpCollections2\A2.1-ArraysMultidimensionais\obj\Debug\net5.0\A2.1-ArraysMultidimensionais.dll
+D:\APRENDENDO_Csharp\APRENDENDOCSHARP\PROJETOS_Alura_ExplorandoLinguagemCSharp\CSharpCollections2\A2.1-ArraysMultidimensionais\obj\Debug\net5.0\ref\A2.1-ArraysMultidimensionais.dll
+D:\APRENDENDO_Csharp\APRENDENDOCSHARP\PROJETOS_Alura_ExplorandoLinguagemCSharp\CSharpCollections2\A2.1-ArraysMultidimensionais\obj\Debug\net5.0\A2.1-ArraysMultidimensionais.pdb
+D:\APRENDENDO_Csharp\APRENDENDOCSHARP\PROJETOS_Alura_ExplorandoLinguagemCSharp\CSharpCollections2\A2.1-ArraysMultidimensionais\obj\Debug\net5.0\A2.1-ArraysMultidimensionais.genruntimeconfig.cache

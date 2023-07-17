@@ -1,0 +1,15 @@
+D:\APRENDENDO_Csharp\APRENDENDOCSHARP\PROJETOS_Alura_ExplorandoLinguagemCSharp\CSharpCollections2\A2.2-JaggedArrays\bin\Debug\net5.0\A2.2-JaggedArrays.exe
+D:\APRENDENDO_Csharp\APRENDENDOCSHARP\PROJETOS_Alura_ExplorandoLinguagemCSharp\CSharpCollections2\A2.2-JaggedArrays\bin\Debug\net5.0\A2.2-JaggedArrays.deps.json
+D:\APRENDENDO_Csharp\APRENDENDOCSHARP\PROJETOS_Alura_ExplorandoLinguagemCSharp\CSharpCollections2\A2.2-JaggedArrays\bin\Debug\net5.0\A2.2-JaggedArrays.runtimeconfig.json
+D:\APRENDENDO_Csharp\APRENDENDOCSHARP\PROJETOS_Alura_ExplorandoLinguagemCSharp\CSharpCollections2\A2.2-JaggedArrays\bin\Debug\net5.0\A2.2-JaggedArrays.runtimeconfig.dev.json
+D:\APRENDENDO_Csharp\APRENDENDOCSHARP\PROJETOS_Alura_ExplorandoLinguagemCSharp\CSharpCollections2\A2.2-JaggedArrays\bin\Debug\net5.0\A2.2-JaggedArrays.dll
+D:\APRENDENDO_Csharp\APRENDENDOCSHARP\PROJETOS_Alura_ExplorandoLinguagemCSharp\CSharpCollections2\A2.2-JaggedArrays\bin\Debug\net5.0\ref\A2.2-JaggedArrays.dll
+D:\APRENDENDO_Csharp\APRENDENDOCSHARP\PROJETOS_Alura_ExplorandoLinguagemCSharp\CSharpCollections2\A2.2-JaggedArrays\bin\Debug\net5.0\A2.2-JaggedArrays.pdb
+D:\APRENDENDO_Csharp\APRENDENDOCSHARP\PROJETOS_Alura_ExplorandoLinguagemCSharp\CSharpCollections2\A2.2-JaggedArrays\obj\Debug\net5.0\A2.2-JaggedArrays.GeneratedMSBuildEditorConfig.editorconfig
+D:\APRENDENDO_Csharp\APRENDENDOCSHARP\PROJETOS_Alura_ExplorandoLinguagemCSharp\CSharpCollections2\A2.2-JaggedArrays\obj\Debug\net5.0\A2.2-JaggedArrays.AssemblyInfoInputs.cache
+D:\APRENDENDO_Csharp\APRENDENDOCSHARP\PROJETOS_Alura_ExplorandoLinguagemCSharp\CSharpCollections2\A2.2-JaggedArrays\obj\Debug\net5.0\A2.2-JaggedArrays.AssemblyInfo.cs
+D:\APRENDENDO_Csharp\APRENDENDOCSHARP\PROJETOS_Alura_ExplorandoLinguagemCSharp\CSharpCollections2\A2.2-JaggedArrays\obj\Debug\net5.0\A2.2-JaggedArrays.csproj.CoreCompileInputs.cache
+D:\APRENDENDO_Csharp\APRENDENDOCSHARP\PROJETOS_Alura_ExplorandoLinguagemCSharp\CSharpCollections2\A2.2-JaggedArrays\obj\Debug\net5.0\A2.2-JaggedArrays.dll
+D:\APRENDENDO_Csharp\APRENDENDOCSHARP\PROJETOS_Alura_ExplorandoLinguagemCSharp\CSharpCollections2\A2.2-JaggedArrays\obj\Debug\net5.0\ref\A2.2-JaggedArrays.dll
+D:\APRENDENDO_Csharp\APRENDENDOCSHARP\PROJETOS_Alura_ExplorandoLinguagemCSharp\CSharpCollections2\A2.2-JaggedArrays\obj\Debug\net5.0\A2.2-JaggedArrays.pdb
+D:\APRENDENDO_Csharp\APRENDENDOCSHARP\PROJETOS_Alura_ExplorandoLinguagemCSharp\CSharpCollections2\A2.2-JaggedArrays\obj\Debug\net5.0\A2.2-JaggedArrays.genruntimeconfig.cache
