@@ -1,0 +1,15 @@
+D:\APRENDENDO_Csharp\APRENDENDOCSHARP\PROJETOS_Alura_ExplorandoLinguagemCSharp\CSharpCollections2\A4.2-OperadoresDeConjuntos\bin\Debug\net5.0\A4.2-OperadoresDeConjuntos.exe
+D:\APRENDENDO_Csharp\APRENDENDOCSHARP\PROJETOS_Alura_ExplorandoLinguagemCSharp\CSharpCollections2\A4.2-OperadoresDeConjuntos\bin\Debug\net5.0\A4.2-OperadoresDeConjuntos.deps.json
+D:\APRENDENDO_Csharp\APRENDENDOCSHARP\PROJETOS_Alura_ExplorandoLinguagemCSharp\CSharpCollections2\A4.2-OperadoresDeConjuntos\bin\Debug\net5.0\A4.2-OperadoresDeConjuntos.runtimeconfig.json
+D:\APRENDENDO_Csharp\APRENDENDOCSHARP\PROJETOS_Alura_ExplorandoLinguagemCSharp\CSharpCollections2\A4.2-OperadoresDeConjuntos\bin\Debug\net5.0\A4.2-OperadoresDeConjuntos.runtimeconfig.dev.json
+D:\APRENDENDO_Csharp\APRENDENDOCSHARP\PROJETOS_Alura_ExplorandoLinguagemCSharp\CSharpCollections2\A4.2-OperadoresDeConjuntos\bin\Debug\net5.0\A4.2-OperadoresDeConjuntos.dll
+D:\APRENDENDO_Csharp\APRENDENDOCSHARP\PROJETOS_Alura_ExplorandoLinguagemCSharp\CSharpCollections2\A4.2-OperadoresDeConjuntos\bin\Debug\net5.0\ref\A4.2-OperadoresDeConjuntos.dll
+D:\APRENDENDO_Csharp\APRENDENDOCSHARP\PROJETOS_Alura_ExplorandoLinguagemCSharp\CSharpCollections2\A4.2-OperadoresDeConjuntos\bin\Debug\net5.0\A4.2-OperadoresDeConjuntos.pdb
+D:\APRENDENDO_Csharp\APRENDENDOCSHARP\PROJETOS_Alura_ExplorandoLinguagemCSharp\CSharpCollections2\A4.2-OperadoresDeConjuntos\obj\Debug\net5.0\A4.2-OperadoresDeConjuntos.GeneratedMSBuildEditorConfig.editorconfig
+D:\APRENDENDO_Csharp\APRENDENDOCSHARP\PROJETOS_Alura_ExplorandoLinguagemCSharp\CSharpCollections2\A4.2-OperadoresDeConjuntos\obj\Debug\net5.0\A4.2-OperadoresDeConjuntos.AssemblyInfoInputs.cache
+D:\APRENDENDO_Csharp\APRENDENDOCSHARP\PROJETOS_Alura_ExplorandoLinguagemCSharp\CSharpCollections2\A4.2-OperadoresDeConjuntos\obj\Debug\net5.0\A4.2-OperadoresDeConjuntos.AssemblyInfo.cs
+D:\APRENDENDO_Csharp\APRENDENDOCSHARP\PROJETOS_Alura_ExplorandoLinguagemCSharp\CSharpCollections2\A4.2-OperadoresDeConjuntos\obj\Debug\net5.0\A4.2-OperadoresDeConjuntos.csproj.CoreCompileInputs.cache
+D:\APRENDENDO_Csharp\APRENDENDOCSHARP\PROJETOS_Alura_ExplorandoLinguagemCSharp\CSharpCollections2\A4.2-OperadoresDeConjuntos\obj\Debug\net5.0\A4.2-OperadoresDeConjuntos.dll
+D:\APRENDENDO_Csharp\APRENDENDOCSHARP\PROJETOS_Alura_ExplorandoLinguagemCSharp\CSharpCollections2\A4.2-OperadoresDeConjuntos\obj\Debug\net5.0\ref\A4.2-OperadoresDeConjuntos.dll
+D:\APRENDENDO_Csharp\APRENDENDOCSHARP\PROJETOS_Alura_ExplorandoLinguagemCSharp\CSharpCollections2\A4.2-OperadoresDeConjuntos\obj\Debug\net5.0\A4.2-OperadoresDeConjuntos.pdb
+D:\APRENDENDO_Csharp\APRENDENDOCSHARP\PROJETOS_Alura_ExplorandoLinguagemCSharp\CSharpCollections2\A4.2-OperadoresDeConjuntos\obj\Debug\net5.0\A4.2-OperadoresDeConjuntos.genruntimeconfig.cache

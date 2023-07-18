@@ -1,0 +1,15 @@
+D:\APRENDENDO_Csharp\APRENDENDOCSHARP\PROJETOS_Alura_ExplorandoLinguagemCSharp\CSharpCollections2\A5.1-Covariancia\bin\Debug\net5.0\A5.1-Covariancia.exe
+D:\APRENDENDO_Csharp\APRENDENDOCSHARP\PROJETOS_Alura_ExplorandoLinguagemCSharp\CSharpCollections2\A5.1-Covariancia\bin\Debug\net5.0\A5.1-Covariancia.deps.json
+D:\APRENDENDO_Csharp\APRENDENDOCSHARP\PROJETOS_Alura_ExplorandoLinguagemCSharp\CSharpCollections2\A5.1-Covariancia\bin\Debug\net5.0\A5.1-Covariancia.runtimeconfig.json
+D:\APRENDENDO_Csharp\APRENDENDOCSHARP\PROJETOS_Alura_ExplorandoLinguagemCSharp\CSharpCollections2\A5.1-Covariancia\bin\Debug\net5.0\A5.1-Covariancia.runtimeconfig.dev.json
+D:\APRENDENDO_Csharp\APRENDENDOCSHARP\PROJETOS_Alura_ExplorandoLinguagemCSharp\CSharpCollections2\A5.1-Covariancia\bin\Debug\net5.0\A5.1-Covariancia.dll
+D:\APRENDENDO_Csharp\APRENDENDOCSHARP\PROJETOS_Alura_ExplorandoLinguagemCSharp\CSharpCollections2\A5.1-Covariancia\bin\Debug\net5.0\ref\A5.1-Covariancia.dll
+D:\APRENDENDO_Csharp\APRENDENDOCSHARP\PROJETOS_Alura_ExplorandoLinguagemCSharp\CSharpCollections2\A5.1-Covariancia\bin\Debug\net5.0\A5.1-Covariancia.pdb
+D:\APRENDENDO_Csharp\APRENDENDOCSHARP\PROJETOS_Alura_ExplorandoLinguagemCSharp\CSharpCollections2\A5.1-Covariancia\obj\Debug\net5.0\A5.1-Covariancia.GeneratedMSBuildEditorConfig.editorconfig
+D:\APRENDENDO_Csharp\APRENDENDOCSHARP\PROJETOS_Alura_ExplorandoLinguagemCSharp\CSharpCollections2\A5.1-Covariancia\obj\Debug\net5.0\A5.1-Covariancia.AssemblyInfoInputs.cache
+D:\APRENDENDO_Csharp\APRENDENDOCSHARP\PROJETOS_Alura_ExplorandoLinguagemCSharp\CSharpCollections2\A5.1-Covariancia\obj\Debug\net5.0\A5.1-Covariancia.AssemblyInfo.cs
+D:\APRENDENDO_Csharp\APRENDENDOCSHARP\PROJETOS_Alura_ExplorandoLinguagemCSharp\CSharpCollections2\A5.1-Covariancia\obj\Debug\net5.0\A5.1-Covariancia.csproj.CoreCompileInputs.cache
+D:\APRENDENDO_Csharp\APRENDENDOCSHARP\PROJETOS_Alura_ExplorandoLinguagemCSharp\CSharpCollections2\A5.1-Covariancia\obj\Debug\net5.0\A5.1-Covariancia.dll
+D:\APRENDENDO_Csharp\APRENDENDOCSHARP\PROJETOS_Alura_ExplorandoLinguagemCSharp\CSharpCollections2\A5.1-Covariancia\obj\Debug\net5.0\ref\A5.1-Covariancia.dll
+D:\APRENDENDO_Csharp\APRENDENDOCSHARP\PROJETOS_Alura_ExplorandoLinguagemCSharp\CSharpCollections2\A5.1-Covariancia\obj\Debug\net5.0\A5.1-Covariancia.pdb
+D:\APRENDENDO_Csharp\APRENDENDOCSHARP\PROJETOS_Alura_ExplorandoLinguagemCSharp\CSharpCollections2\A5.1-Covariancia\obj\Debug\net5.0\A5.1-Covariancia.genruntimeconfig.cache

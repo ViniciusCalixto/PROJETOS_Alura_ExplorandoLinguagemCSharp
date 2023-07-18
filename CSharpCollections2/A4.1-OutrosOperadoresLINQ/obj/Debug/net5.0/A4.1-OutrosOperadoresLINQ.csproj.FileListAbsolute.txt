@@ -1,0 +1,15 @@
+D:\APRENDENDO_Csharp\APRENDENDOCSHARP\PROJETOS_Alura_ExplorandoLinguagemCSharp\CSharpCollections2\A4.1-OutrosOperadoresLINQ\bin\Debug\net5.0\A4.1-OutrosOperadoresLINQ.exe
+D:\APRENDENDO_Csharp\APRENDENDOCSHARP\PROJETOS_Alura_ExplorandoLinguagemCSharp\CSharpCollections2\A4.1-OutrosOperadoresLINQ\bin\Debug\net5.0\A4.1-OutrosOperadoresLINQ.deps.json
+D:\APRENDENDO_Csharp\APRENDENDOCSHARP\PROJETOS_Alura_ExplorandoLinguagemCSharp\CSharpCollections2\A4.1-OutrosOperadoresLINQ\bin\Debug\net5.0\A4.1-OutrosOperadoresLINQ.runtimeconfig.json
+D:\APRENDENDO_Csharp\APRENDENDOCSHARP\PROJETOS_Alura_ExplorandoLinguagemCSharp\CSharpCollections2\A4.1-OutrosOperadoresLINQ\bin\Debug\net5.0\A4.1-OutrosOperadoresLINQ.runtimeconfig.dev.json
+D:\APRENDENDO_Csharp\APRENDENDOCSHARP\PROJETOS_Alura_ExplorandoLinguagemCSharp\CSharpCollections2\A4.1-OutrosOperadoresLINQ\bin\Debug\net5.0\A4.1-OutrosOperadoresLINQ.dll
+D:\APRENDENDO_Csharp\APRENDENDOCSHARP\PROJETOS_Alura_ExplorandoLinguagemCSharp\CSharpCollections2\A4.1-OutrosOperadoresLINQ\bin\Debug\net5.0\ref\A4.1-OutrosOperadoresLINQ.dll
+D:\APRENDENDO_Csharp\APRENDENDOCSHARP\PROJETOS_Alura_ExplorandoLinguagemCSharp\CSharpCollections2\A4.1-OutrosOperadoresLINQ\bin\Debug\net5.0\A4.1-OutrosOperadoresLINQ.pdb
+D:\APRENDENDO_Csharp\APRENDENDOCSHARP\PROJETOS_Alura_ExplorandoLinguagemCSharp\CSharpCollections2\A4.1-OutrosOperadoresLINQ\obj\Debug\net5.0\A4.1-OutrosOperadoresLINQ.GeneratedMSBuildEditorConfig.editorconfig
+D:\APRENDENDO_Csharp\APRENDENDOCSHARP\PROJETOS_Alura_ExplorandoLinguagemCSharp\CSharpCollections2\A4.1-OutrosOperadoresLINQ\obj\Debug\net5.0\A4.1-OutrosOperadoresLINQ.AssemblyInfoInputs.cache
+D:\APRENDENDO_Csharp\APRENDENDOCSHARP\PROJETOS_Alura_ExplorandoLinguagemCSharp\CSharpCollections2\A4.1-OutrosOperadoresLINQ\obj\Debug\net5.0\A4.1-OutrosOperadoresLINQ.AssemblyInfo.cs
+D:\APRENDENDO_Csharp\APRENDENDOCSHARP\PROJETOS_Alura_ExplorandoLinguagemCSharp\CSharpCollections2\A4.1-OutrosOperadoresLINQ\obj\Debug\net5.0\A4.1-OutrosOperadoresLINQ.csproj.CoreCompileInputs.cache
+D:\APRENDENDO_Csharp\APRENDENDOCSHARP\PROJETOS_Alura_ExplorandoLinguagemCSharp\CSharpCollections2\A4.1-OutrosOperadoresLINQ\obj\Debug\net5.0\A4.1-OutrosOperadoresLINQ.dll
+D:\APRENDENDO_Csharp\APRENDENDOCSHARP\PROJETOS_Alura_ExplorandoLinguagemCSharp\CSharpCollections2\A4.1-OutrosOperadoresLINQ\obj\Debug\net5.0\ref\A4.1-OutrosOperadoresLINQ.dll
+D:\APRENDENDO_Csharp\APRENDENDOCSHARP\PROJETOS_Alura_ExplorandoLinguagemCSharp\CSharpCollections2\A4.1-OutrosOperadoresLINQ\obj\Debug\net5.0\A4.1-OutrosOperadoresLINQ.pdb
+D:\APRENDENDO_Csharp\APRENDENDOCSHARP\PROJETOS_Alura_ExplorandoLinguagemCSharp\CSharpCollections2\A4.1-OutrosOperadoresLINQ\obj\Debug\net5.0\A4.1-OutrosOperadoresLINQ.genruntimeconfig.cache
